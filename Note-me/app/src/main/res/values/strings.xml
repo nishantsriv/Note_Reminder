@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Note-me</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="select_picture">Select Picture</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display">display</string>
+    <string name="title_activity_note_add">Note_add</string>
+    <string name="title_activity_sample">Sample</string>
+    <string name="title_activity_insert">Insert</string>
+    <string name="title_activity_update">Update</string>
+    <string name="title_activity_remindr">Remindr</string>
+</resources>
